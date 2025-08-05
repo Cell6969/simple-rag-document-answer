@@ -83,5 +83,13 @@ docker-compose up
   }
   ```
 for further example you can see **example.json**
+
+if there is no question on payload the response will be error with code 400
+```json
+{
+    "error": "No question provided"
+}
+```
+
 ## Fallback
 If there is no answer based on document, the system will answer “Jawaban tidak ditemukan dalam dokumen.”
