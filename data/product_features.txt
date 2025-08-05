@@ -1,0 +1,27 @@
+Berikut adalah fitur-fitur unggulan dari 3Dolphin.ai, platform customer engagement yang dikembangkan oleh PT Inmotion Inovasi Teknologi:
+
+1. **Omnichannel Integration**  
+   Terhubung langsung dengan berbagai kanal komunikasi populer seperti WhatsApp Business API, Instagram, Facebook Messenger, Telegram, Webchat, Email, dan lainnya dalam satu dashboard terpadu.
+
+2. **Smart Chatbot AI**  
+   Dilengkapi chatbot berbasis Artificial Intelligence yang dapat dikustomisasi sesuai kebutuhan bisnis. Chatbot mampu menjawab pertanyaan umum, memproses transaksi sederhana, dan mengarahkan ke agen manusia saat dibutuhkan.
+
+3. **Conversation Analytics**  
+   Dashboard analitik real-time untuk memantau volume percakapan, respon rata-rata, kepuasan pelanggan (CSAT), dan performa agen. Memberikan insight berbasis data untuk pengambilan keputusan.
+
+4. **Ticketing System**  
+   Sistem manajemen tiket yang memungkinkan tim support mengelola dan menindaklanjuti percakapan yang belum terselesaikan, dengan fitur SLA tracking dan eskalasi otomatis.
+
+5. **Agent Collaboration Tools**  
+   Fitur transfer chat, tagging, komentar internal, dan pengelolaan tim yang mempermudah kolaborasi antar agen.
+
+6. **Flexible API Integration**  
+   Mendukung integrasi dengan berbagai sistem eksternal seperti CRM, ERP, dan helpdesk software melalui RESTful API yang terdokumentasi dengan baik.
+
+7. **User & Role Management**  
+   Pengaturan hak akses yang granular untuk admin, supervisor, dan agen agar sesuai dengan struktur organisasi.
+
+8. **Data Security & Compliance**  
+   Platform dirancang dengan standar keamanan tinggi dan mendukung kepatuhan terhadap peraturan privasi data seperti GDPR dan UU PDP.
+
+Dengan fitur-fitur ini, 3Dolphin.ai membantu perusahaan membangun pengalaman pelanggan yang lebih cepat, personal, dan efisien.

@@ -1,0 +1,37 @@
+[
+    {
+        "input": {
+            "question": "apa itu 3Dolphin.ai",
+            "top_k": 3
+        },
+        "output": {
+            "answer": "3Dolphin.ai adalah platform layanan pelanggan berbasis AI yang memungkinkan bisnis terhubung dengan pelanggan mereka melalui berbagai saluran komunikasi dalam satu dashboard terintegrasi."
+        }
+    },
+    {
+        "input": {
+            "question": "apa keunggulan dari platform 3Dolphin.ai",
+            "top_k": 3
+        },
+        "output": {
+            "answer": "Keunggulan dari platform 3Dolphin.ai meliputi integrasi omnichannel yang memungkinkan bisnis terhubung dengan pelanggan melalui berbagai saluran komunikasi dalam satu dashboard terintegrasi, dukungan chatbot berbasis AI yang dapat dikustomisasi sesuai kebutuhan bisnis, analitik real-time untuk memantau performa percakapan dan agen, sistem manajemen tiket yang efisien, fitur kolaborasi antar agen, integrasi fleksibel dengan sistem eksternal melalui API, pengaturan hak akses yang granular, serta keamanan data yang tinggi dan kepatuhan terhadap regulasi privasi data."
+        }
+    },
+    {
+        "input": {
+            "question": "Inmotion bergerak dibidang apa"
+        },
+        "output": {
+            "answer": "PT Inmotion Inovasi Teknologi bergerak dalam pengembangan solusi berbasis AI untuk meningkatkan efisiensi layanan pelanggan."
+        }
+    },
+    {
+        "input": {
+            "question": "apakah dolphin mendukung dashboard analytic",
+            "top_k": 3
+        },
+        "output": {
+            "answer": "Ya, 3Dolphin.ai mendukung dashboard analitik untuk memantau berbagai metrik seperti volume percakapan, kepuasan pelanggan, performa agen, dan lainnya."
+        }
+    }
+]

@@ -1,0 +1,11 @@
+Q: Apa itu 3Dolphin.ai?
+A: 3Dolphin.ai adalah platform layanan pelanggan berbasis AI yang memungkinkan bisnis terhubung dengan pelanggan mereka melalui berbagai saluran komunikasi dalam satu dashboard terintegrasi.
+
+Q: Apakah 3Dolphin.ai mendukung integrasi dengan WhatsApp?
+A: Ya. 3Dolphin.ai mendukung WhatsApp Business API dan dapat diintegrasikan untuk komunikasi dua arah dengan pelanggan.
+
+Q: Apakah 3Dolphin.ai menyediakan chatbot?
+A: Ya. 3Dolphin.ai memiliki dukungan chatbot berbasis AI yang dapat dilatih sesuai kebutuhan bisnis.
+
+Q: Apakah saya bisa melihat laporan dan analitik di 3Dolphin.ai?
+A: Ya. Sistem ini dilengkapi dengan dashboard analitik untuk memantau volume percakapan, kepuasan pelanggan, performa agen, dan lainnya.

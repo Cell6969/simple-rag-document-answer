@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+venv/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# Instance folder
+instance/
+
+# Flask-specific files
+.flaskenv
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution and build artifacts
+dist/
+build/
+*.egg-info/
+
+# Editor-specific files (examples)
+.vscode/
+.idea/
+*.swp
