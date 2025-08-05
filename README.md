@@ -30,7 +30,7 @@ Create a .env file based on .env.example. Provide:
 - QDRANT_PORT
 
 ### 2. Setup Qdrant
-for setup qdrant, can be done using docker locally
+To set up Qdrant, you can run it locally using Docker
 ```sh
 docker run -d --name qdrant -p 6333:6333 qdrant/qdrant:latest
 ```
@@ -65,3 +65,22 @@ docker-compose up
 ## Parameters
 - question: user question (required:true)
 - top_k: number of documents to retrieve by most relevan (default: 3, required:false)
+
+## API Endpoint
+- `POST /ask`  
+  **Body:**
+  ```json
+  {
+    "question": "jelasin apa itu 3Dolphin.ai dan keunggulannya",
+    "top_k": 3
+  }
+  ```
+  
+  **Response:**
+  ```json
+  {
+    "answer": "3Dolphin.ai adalah platform layanan pelanggan berbasis AI yang memungkinkan bisnis terhubung dengan pelanggan mereka melalui berbagai saluran komunikasi dalam satu dashboard terintegrasi."
+  }
+  ```
+## Fallback
+If there is no answer based on document, the system will answer “Jawaban tidak ditemukan dalam dokumen.”
