@@ -82,5 +82,6 @@ docker-compose up
     "answer": "3Dolphin.ai adalah platform layanan pelanggan berbasis AI yang memungkinkan bisnis terhubung dengan pelanggan mereka melalui berbagai saluran komunikasi dalam satu dashboard terintegrasi."
   }
   ```
+for further example you can see **example.json**
 ## Fallback
 If there is no answer based on document, the system will answer “Jawaban tidak ditemukan dalam dokumen.”
